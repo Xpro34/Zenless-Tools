@@ -5,8 +5,6 @@
 </a>
 </div>
 
-[Download](https://github.com/Xpro34/ZetTools/releases/download/ZetTools/ZetTools.zip)
-
 # zet tools will allow you to play H0Y0Verse and zzz games with pleasure and comfort.
 
 Features:
