@@ -34,7 +34,7 @@ Features:
 6) Enjoy the game!
 
 **Also, join the Hoyoverse tools channel, where only the latest versions of tools for numerous gacha games are published.**
-https://tinyurl.com/HoYoVerse-tool
+https://tinyurl.com/HoYoVerse-tools
 
 #### Keywords:
 - ZZZ
